@@ -1,0 +1,6 @@
+{
+  "name": "Adrián Dextre Carranza — Ecosistema Tecnológico y Soluciones Digitales",
+  "description": "Portal profesional, laboratorio interactivo y arquitectura de soluciones multidisciplinarias de Adrián Dextre Carranza: tecnología, análisis, administración, desarrollo web, IoT, IA aplicada y transformación digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
